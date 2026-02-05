@@ -141,7 +141,7 @@ http://localhost:5173
 
 ### Home Page
 
-![Upload Page]([screenshots/screenshot-upload.png](https://raw.github.com/reach-arnab/LinkVault_25CS60D06/blob/main/screenshot-upload.png))
+![Upload Page]((https://raw.github.com/reach-arnab/LinkVault_25CS60D06/blob/main/screenshot-upload.png))
 
 
 
@@ -150,14 +150,14 @@ http://localhost:5173
 
 ### Link Generated After Upload
 
-![Generated Link]([screenshots/screenshot-link.png](https://raw.github.com/reach-arnab/LinkVault_25CS60D06/blob/main/screenshot-link.png))
+![Generated Link]((https://raw.github.com/reach-arnab/LinkVault_25CS60D06/blob/main/screenshot-link.png))
 
 
 
 
 ### Content View with Expiry Timer
 
-![Expiry Timer]([screenshots/screenshot-expiry.png](https://raw.github.com/reach-arnab/LinkVault_25CS60D06/blob/main/screenshot-expiry.png))
+![Expiry Timer]((https://raw.github.com/reach-arnab/LinkVault_25CS60D06/blob/main/screenshot-expiry.png))
 
 
 
@@ -184,6 +184,7 @@ The project focuses on simplicity, security, and usability while following the g
 ---
 
 **End of README**
+
 
 
 
