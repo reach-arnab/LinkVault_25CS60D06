@@ -141,17 +141,23 @@ http://localhost:5173
 
 ### Home Page
 
+![Upload Page](screenshots/screenshot-upload.png)
+
+
 
 
 
 
 ### Link Generated After Upload
 
+![Generated Link](screenshots/screenshot-link.png)
 
 
 
 
 ### Content View with Expiry Timer
+
+![Expiry Timer](screenshots/screenshot-expiry.png)
 
 
 
@@ -178,4 +184,5 @@ The project focuses on simplicity, security, and usability while following the g
 ---
 
 **End of README**
+
 
